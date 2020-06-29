@@ -1,0 +1,11 @@
+/* CSV */
+ea596e,4f000b,417b5a,e4d6a7,e9b44c
+
+/* Array */
+["ea596e","4f000b","417b5a","e4d6a7","e9b44c"]
+
+/* Object */
+{"Fiery Rose":"ea596e","Rosewood":"4f000b","Amazon":"417b5a","Dutch White":"e4d6a7","Maximum Yellow Red":"e9b44c"}
+
+/* Extended Array */
+[{"name":"Fiery Rose","hex":"ea596e","rgb":[234,89,110],"cmyk":[0,62,53,8],"hsb":[351,62,92],"hsl":[351,78,63],"lab":[58,58,18]},{"name":"Rosewood","hex":"4f000b","rgb":[79,0,11],"cmyk":[0,100,86,69],"hsb":[352,100,31],"hsl":[352,100,15],"lab":[14,35,17]},{"name":"Amazon","hex":"417b5a","rgb":[65,123,90],"cmyk":[47,0,27,52],"hsb":[146,47,48],"hsl":[146,31,37],"lab":[47,-27,12]},{"name":"Dutch White","hex":"e4d6a7","rgb":[228,214,167],"cmyk":[0,6,27,11],"hsb":[46,27,89],"hsl":[46,53,77],"lab":[86,-2,25]},{"name":"Maximum Yellow Red","hex":"e9b44c","rgb":[233,180,76],"cmyk":[0,23,67,9],"hsb":[40,67,91],"hsl":[40,78,61],"lab":[76,9,59]}]
